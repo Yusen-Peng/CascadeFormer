@@ -1,12 +1,8 @@
-<p align="center">
-<img src="docs/CascadeFormer_finetune.png" width="550"/>
-</p>
-
-<h1 align="center">CascadeFormer 🌊</h1>
-<h2 align="center">A Family of Two-stage Cascading Transformers for Skeleton-based Human Action Recognition</h2>
+# CascadeFormer: A Family of Two-stage Cascading Transformers for Skeleton-based Human Action Recognition
 
 ## News/Updates
 
+- [August 10, 2026] paper is officially on ICPR 2026 [conference proceedings](https://link.springer.com/chapter/10.1007/978-3-032-31583-0_28)!
 - [March 31, 2026] paper is accepted at ICPR 2026 🥳🎉!
 - [August 31, 2025] paper available on [arXiv](https://arxiv.org/abs/2509.00692)!
 - [July 19, 2025] model checkpoints are publicly available on [HuggingFace](https://huggingface.co/YusenPeng/CascadeFormerCheckpoints) for further analysis/application!
